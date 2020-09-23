@@ -1,0 +1,67 @@
+﻿@model ADManageSystem.Models.Class
+
+@{
+    ViewBag.Title = "Assign Trainee";
+}
+
+<div class="row">
+    <div class="col-sm-6">
+        <h2>@ViewBag.Title</h2>
+        <hr />
+
+        <h5><strong>Current trainee list of @Model.Code:</strong> </h5>
+
+        <table class="table table-hover table-responsive table-striped">
+            <thead>
+                <tr>
+                    <th>Trainees</th>
+                    <th></th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @if (Model.TraineeClasses.Count > 0)
+                {
+                    foreach (var item in Model.TraineeClasses)
+                    {
+                        <tr>
+                            <td>@item.ApplicationUsers.UserName</td>
+                            <td>
+                                <form action="@Url.Action("DeleteTraineeFromClass", new { classId = item.ClassID, traineeId = item.ApplicationUserID })" method="post">
+                                    @Html.AntiForgeryToken()
+                                    <button type="submit" class="btn btn-xs btn-danger">Delete</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                }
+
+                else
+                {
+                    <tr>
+                        <td colspan="2">
+                            <p>There is no trainee in this class.</p>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <h5><strong>Add trainees to this class:</strong></h5>
+
+        <form action="@Url.Action("AddToClass")" method="post">
+            <input type="hidden" name="classId" value="@Url.RequestContext.RouteData.Values["Id"]" />
+            @Html.AntiForgeryToken()
+            @Html.ListBox("TraineeID", null, new { @class = "form-control", multiple = "multiple" })
+
+            <div class="form-group">
+                <br />
+                <button type="submit" class="btn btn-primary">Add</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<p>
+    @Html.ActionLink("Back to List", "Index", "ManageClasses", new { area = "Staff" }, null)
+</p>

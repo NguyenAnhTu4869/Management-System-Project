@@ -1,0 +1,317 @@
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\AssignmentSameIndex.dll.config
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\AssignmentSameIndex.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\AssignmentSameIndex.pdb
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\csc.exe
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\csc.exe.config
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\csc.rsp
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\csi.exe
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\csi.exe.config
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\csi.rsp
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\Microsoft.Managed.Core.targets
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.AppContext.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Collections.Immutable.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Console.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.IO.Compression.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.IO.FileSystem.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.IO.Pipes.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Reflection.Metadata.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Security.AccessControl.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Security.Claims.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Security.Principal.Windows.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.ValueTuple.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Xml.XmlDocument.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Xml.XPath.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\vbc.exe
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\vbc.exe.config
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\vbc.rsp
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\VBCSCompiler.exe
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\VBCSCompiler.exe.config
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Antlr3.Runtime.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\EntityFramework.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\EntityFramework.SqlServer.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.AspNet.Identity.Core.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Security.Cookies.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Security.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Security.Facebook.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Security.Google.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Security.OAuth.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Security.Twitter.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Web.Infrastructure.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Newtonsoft.Json.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Owin.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\System.Web.Helpers.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\System.Web.Mvc.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\System.Web.Optimization.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\System.Web.Razor.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\System.Web.WebPages.Deployment.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\System.Web.WebPages.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\System.Web.WebPages.Razor.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\WebGrease.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\System.Web.Helpers.xml
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\System.Web.Mvc.xml
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\System.Web.Optimization.xml
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\System.Web.Razor.xml
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\System.Web.WebPages.xml
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\System.Web.WebPages.Deployment.xml
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\System.Web.WebPages.Razor.xml
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Newtonsoft.Json.xml
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Antlr3.Runtime.pdb
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\EntityFramework.xml
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\EntityFramework.SqlServer.xml
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.AspNet.Identity.Core.xml
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.xml
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Security.xml
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Security.Facebook.xml
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Security.Cookies.xml
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Security.Google.xml
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Security.Twitter.xml
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Security.OAuth.xml
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\obj\Debug\AssignmentSameIndex.csprojAssemblyReference.cache
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\obj\Debug\AssignmentSameIndex.csproj.CoreCompileInputs.cache
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\obj\Debug\AssignmentSameIndex.csproj.CopyComplete
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\obj\Debug\AssignmentSameIndex.dll
+D:\IT\FPT Greenwich\FPT Application Development\Project\AssignmentSameIndex\AssignmentSameIndex\obj\Debug\AssignmentSameIndex.pdb
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\AssignmentSameIndex.dll.config
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\AssignmentSameIndex.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\AssignmentSameIndex.pdb
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\csc.exe
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\csc.exe.config
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\csc.rsp
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\csi.exe
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\csi.exe.config
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\csi.rsp
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\Microsoft.Managed.Core.targets
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.AppContext.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Collections.Immutable.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Console.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.IO.Compression.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.IO.FileSystem.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.IO.Pipes.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Reflection.Metadata.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Security.AccessControl.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Security.Claims.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Security.Principal.Windows.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.ValueTuple.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Xml.XmlDocument.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Xml.XPath.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\vbc.exe
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\vbc.exe.config
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\vbc.rsp
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\VBCSCompiler.exe
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\roslyn\VBCSCompiler.exe.config
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Antlr3.Runtime.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\EntityFramework.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\EntityFramework.SqlServer.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.AspNet.Identity.Core.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Security.Cookies.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Security.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Security.Facebook.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Security.Google.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Security.OAuth.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Security.Twitter.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Web.Infrastructure.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Newtonsoft.Json.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Owin.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\System.Web.Helpers.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\System.Web.Mvc.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\System.Web.Optimization.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\System.Web.Razor.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\System.Web.WebPages.Deployment.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\System.Web.WebPages.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\System.Web.WebPages.Razor.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\WebGrease.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\System.Web.Helpers.xml
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\System.Web.Mvc.xml
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\System.Web.Optimization.xml
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\System.Web.Razor.xml
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\System.Web.WebPages.xml
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\System.Web.WebPages.Deployment.xml
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\System.Web.WebPages.Razor.xml
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Newtonsoft.Json.xml
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Antlr3.Runtime.pdb
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\EntityFramework.xml
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\EntityFramework.SqlServer.xml
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.AspNet.Identity.Core.xml
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.xml
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Security.xml
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Security.Facebook.xml
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Security.Cookies.xml
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Security.Google.xml
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Security.Twitter.xml
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.Owin.Security.OAuth.xml
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\obj\Debug\AssignmentSameIndex.csprojAssemblyReference.cache
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\obj\Debug\AssignmentSameIndex.csproj.CoreCompileInputs.cache
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\obj\Debug\AssignmentSameIndex.csproj.CopyComplete
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\obj\Debug\AssignmentSameIndex.dll
+D:\AD\AssignmentSameIndex\AssignmentSameIndex\obj\Debug\AssignmentSameIndex.pdb
+D:\AD\ADManageSystem\ADManageSystem\bin\ADManageSystem.dll.config
+D:\AD\ADManageSystem\ADManageSystem\bin\ADManageSystem.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\ADManageSystem.pdb
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\csc.exe
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\csc.exe.config
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\csc.rsp
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\csi.exe
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\csi.exe.config
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\csi.rsp
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\Microsoft.Managed.Core.targets
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\System.AppContext.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\System.Console.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\System.IO.Compression.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\System.IO.FileSystem.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\System.IO.Pipes.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\System.Security.AccessControl.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\System.Security.Claims.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\System.Security.Principal.Windows.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\System.ValueTuple.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\System.Xml.XPath.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\vbc.exe
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\vbc.exe.config
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\vbc.rsp
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\VBCSCompiler.exe
+D:\AD\ADManageSystem\ADManageSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\AD\ADManageSystem\ADManageSystem\bin\Antlr3.Runtime.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\EntityFramework.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\EntityFramework.SqlServer.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\Microsoft.AspNet.Identity.Core.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\Microsoft.Owin.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\Microsoft.Owin.Security.Cookies.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\Microsoft.Owin.Security.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\Microsoft.Owin.Security.Facebook.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\Microsoft.Owin.Security.Google.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\Microsoft.Owin.Security.OAuth.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\Microsoft.Owin.Security.Twitter.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\Newtonsoft.Json.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\Owin.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\System.Web.Helpers.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\System.Web.Mvc.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\System.Web.Optimization.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\System.Web.Razor.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\System.Web.WebPages.Deployment.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\System.Web.WebPages.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\System.Web.WebPages.Razor.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\WebGrease.dll
+D:\AD\ADManageSystem\ADManageSystem\bin\System.Web.Helpers.xml
+D:\AD\ADManageSystem\ADManageSystem\bin\System.Web.Mvc.xml
+D:\AD\ADManageSystem\ADManageSystem\bin\System.Web.Optimization.xml
+D:\AD\ADManageSystem\ADManageSystem\bin\System.Web.Razor.xml
+D:\AD\ADManageSystem\ADManageSystem\bin\System.Web.WebPages.xml
+D:\AD\ADManageSystem\ADManageSystem\bin\System.Web.WebPages.Deployment.xml
+D:\AD\ADManageSystem\ADManageSystem\bin\System.Web.WebPages.Razor.xml
+D:\AD\ADManageSystem\ADManageSystem\bin\Newtonsoft.Json.xml
+D:\AD\ADManageSystem\ADManageSystem\bin\Antlr3.Runtime.pdb
+D:\AD\ADManageSystem\ADManageSystem\bin\EntityFramework.xml
+D:\AD\ADManageSystem\ADManageSystem\bin\EntityFramework.SqlServer.xml
+D:\AD\ADManageSystem\ADManageSystem\bin\Microsoft.AspNet.Identity.Core.xml
+D:\AD\ADManageSystem\ADManageSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\AD\ADManageSystem\ADManageSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AD\ADManageSystem\ADManageSystem\bin\Microsoft.Owin.xml
+D:\AD\ADManageSystem\ADManageSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\AD\ADManageSystem\ADManageSystem\bin\Microsoft.Owin.Security.xml
+D:\AD\ADManageSystem\ADManageSystem\bin\Microsoft.Owin.Security.Facebook.xml
+D:\AD\ADManageSystem\ADManageSystem\bin\Microsoft.Owin.Security.Cookies.xml
+D:\AD\ADManageSystem\ADManageSystem\bin\Microsoft.Owin.Security.Google.xml
+D:\AD\ADManageSystem\ADManageSystem\bin\Microsoft.Owin.Security.Twitter.xml
+D:\AD\ADManageSystem\ADManageSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\AD\ADManageSystem\ADManageSystem\bin\Microsoft.Owin.Security.OAuth.xml
+D:\AD\ADManageSystem\ADManageSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AD\ADManageSystem\ADManageSystem\obj\Debug\ADManageSystem.csprojAssemblyReference.cache
+D:\AD\ADManageSystem\ADManageSystem\obj\Debug\ADManageSystem.csproj.CoreCompileInputs.cache
+D:\AD\ADManageSystem\ADManageSystem\obj\Debug\ADManageSystem.csproj.CopyComplete
+D:\AD\ADManageSystem\ADManageSystem\obj\Debug\ADManageSystem.dll
+D:\AD\ADManageSystem\ADManageSystem\obj\Debug\ADManageSystem.pdb
+D:\AD\ADManageSystem\ADManageSystem\obj\Debug\ADManageSystem.Migrations.upadteUser10.resources
+D:\AD\ADManageSystem\ADManageSystem\obj\Debug\ADManageSystem.csproj.GenerateResource.cache
